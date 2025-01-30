@@ -1,4 +1,5 @@
-服务器故障,临时用户temp临时密码temp暂时免费使用
+<span style="font-size:20px; font-weight:bold; color:red;">服务器故障,临时用户temp临时密码temp暂时免费使用</span>
+
 
 TikTok 矩阵直播工具
 占用超低的系统性能，一机可直播几十个账号，这取决于你的上行带宽。
