@@ -4,6 +4,9 @@
 安装包内有MicrosoftEdgeWebview2Setup.exe,提前安装.<br>
 运行主程序TkLivePro.exe<br>
 
+TkLivePro是一款免OBS矩阵直播工具,一台电脑可用同时几十个开播.<br>
+目前同时也支持OBS直播，配合OBS专属版.<br>
+
 0303增加专属OBS推流码
 
 可配合不被断播的专属OBS使用，
