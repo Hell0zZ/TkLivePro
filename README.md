@@ -1,3 +1,8 @@
+系统要求win10或以上(建议win10,win11,winServer2022)
+依赖微软MicrosoftEdgeWebview2
+安装包来有MicrosoftEdgeWebview2Setup.exe,提前安装.
+运行主程序TkLivePro.exe
+
 0303增加专属OBS推流码
 
 可配合不被断播的专属OBS使用，
