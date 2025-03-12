@@ -12,9 +12,6 @@ TkLivePro是一款免OBS矩阵直播工具,一台电脑可用同时几十个开�
 可配合不被断播的专属OBS使用，
 通过专属推流码进行推流。
 专属OBS地址： https://github.com/Hell0zZ/zzOBS
-![image](https://github.com/user-attachments/assets/192a9ea1-5087-4e7d-b8f5-cc645f426f37)
-
-![image](https://github.com/user-attachments/assets/5a0d254b-e87b-42e8-845f-f9125b3454e6)
 
 0301版本增加 转播功能
 当主播下播时，会自动切换到本地视频，继续直播
