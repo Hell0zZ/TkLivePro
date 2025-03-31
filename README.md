@@ -7,7 +7,7 @@
 TkLivePro是一款免OBS矩阵直播工具,一台电脑可用同时几十个开播.<br>
 目前同时也支持OBS直播，配合OBS专属版.<br>
 专属不断播的OBS地址： https://github.com/Hell0zZ/zzOBS
-
+0331 修复随机mp4视频存在的BUG
 0327 新增【免手机】+【免DID】 开播方式
 ![微信截图_20250328111935](https://github.com/user-attachments/assets/63656442-260f-4a17-b932-04dedd64e798)
 
