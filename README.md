@@ -8,6 +8,9 @@ TkLivePro是一款免OBS矩阵直播工具,一台电脑可用同时几十个开�
 目前同时也支持OBS直播，配合OBS专属版.<br>
 专属不断播的OBS地址： https://github.com/Hell0zZ/zzOBS <br>
 
+最新版本：
+https://github.com/Hell0zZ/TkLivePro/releases/tag/v.2025.08.30
+
 0606版修复弹窗异常
 
 0402 修复随机mp4视频存在的BUG <br>
