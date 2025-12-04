@@ -10,6 +10,8 @@ TkLivePro是一款免OBS矩阵直播工具,一台电脑可用同时几十个开�
 
 最新版本：
 https://github.com/Hell0zZ/TkLivePro/releases/tag/v.2025.12.04
+
+
 1204 新增背景音频混音，更新微信公众号消息通知（断播通知）
 
 0606版修复弹窗异常
