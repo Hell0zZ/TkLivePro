@@ -5,11 +5,18 @@
 运行主程序TkLivePro.exe<br>
 
 TkLivePro是一款免OBS矩阵直播工具,一台电脑可用同时几十个开播.<br>
+最新版本TkLivePro 20260529 ：
+修复批量导入商品+导出商品的问题。
+修复商品弹窗问题，增加只能弹窗模式。
+增加Ai语音回复，增加互动性和真实性，可以减少违规。
+增加音频的多样化，变音，变速，变调，更多自由度的配置。
+
+https://github.com/Hell0zZ/TkLivePro/releases/tag/v.2026.05.29
+
+<img width="1753" height="813" alt="image" src="https://github.com/user-attachments/assets/5ea669b2-e52b-44e5-b978-12221f335f1d" />
+
 目前同时也支持OBS直播，配合OBS专属版.<br>
 专属不断播的OBS地址： https://github.com/Hell0zZ/zzOBS <br>
-
-最新版本：
-https://github.com/Hell0zZ/TkLivePro/releases/tag/v.2025.12.17
 
 1217 数据集合面板加入商品弹窗功能 <br>
 1204 新增背景音频混音，更新微信公众号消息通知（断播通知）<br>
